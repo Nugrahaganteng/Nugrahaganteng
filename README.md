@@ -28,12 +28,12 @@ Berorientasi pada pengalaman pengguna (**UI/UX**) dengan semangat tinggi untuk t
 
 ### ⚙️ Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nugrahganteng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugrahganteng&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nugrahganteng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nugrahganteng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nugrahganteng&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nugrahganteng&theme=tokyonight&hide_border=true" height="150px"/>
 </p>
 
 ---
