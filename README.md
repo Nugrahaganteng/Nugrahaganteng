@@ -26,17 +26,6 @@ Berorientasi pada pengalaman pengguna (**UI/UX**) dengan semangat tinggi untuk t
 
 ---
 
-### ⚙️ Statistik GitHub
-<!-- ⚙️ STATISTIK GITHUB -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" height="150px"/>
-</p>
----
 
 ### 🎨 Skill Progress
 <p align="center">
